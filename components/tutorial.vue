@@ -13,7 +13,7 @@
       <iframe
         loading="lazy"
         class="sl-demo"
-        src="https://app.storylane.io/demo/m89uxsndbopo?embed=inline"
+        src="https://app.storylane.io/share/fi5eljlmarbh?embed=inline"
         name="sl-embed"
         allow="fullscreen"
         allowfullscreen
